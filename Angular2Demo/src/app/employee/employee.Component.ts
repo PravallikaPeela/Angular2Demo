@@ -4,7 +4,7 @@
     templateUrl:'app/employee/employee.component.html'
 })
 export class employeeComponent {
-    firstname: string = "pravallika";
+    firstname: string = "venkata pravallika peela";
     lastname: string = "peela";
     gender: string = "female";
     age: number = 32;
